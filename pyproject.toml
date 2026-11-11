@@ -1,0 +1,14 @@
+[project]
+name = "delimited-number-parser"
+version = "0.1.0"
+description = "Converts localized number strings with separators and decimal marks into numbers."
+requires-python = ">=3.10"
+dependencies = []
+readme = "README.md"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
