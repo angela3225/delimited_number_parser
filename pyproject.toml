@@ -1,6 +1,6 @@
 [project]
 name = "delimited-number-parser"
-version = "0.1.0"
+version = "0.1.1"
 description = "Converts localized number strings with separators and decimal marks into numbers."
 requires-python = ">=3.10"
 dependencies = []
